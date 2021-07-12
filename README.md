@@ -10,13 +10,13 @@
 
 Name of feature: Creat Login and Logout Components
 
-Estimate of time needed to complete: 1 Hour
+Estimate of time needed to complete: 2 Hour
 
-Start time: 2:00 Pm
+Start time: 12:30 Pm
 
-Finish time: 2:30 Pm
+Finish time: 3:30 Pm
 
-Actual time needed to complete: Half Hour
+Actual time needed to complete: 3 Hour
 
 
 
